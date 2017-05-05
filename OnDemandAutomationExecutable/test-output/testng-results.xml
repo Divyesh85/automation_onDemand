@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automated On Demand test run" duration-ms="137026" started-at="2017-05-05T09:52:57Z" finished-at="2017-05-05T09:55:14Z">
+    <groups>
+    </groups>
+    <test name="On Demand Test" duration-ms="137026" started-at="2017-05-05T09:52:57Z" finished-at="2017-05-05T09:55:14Z">
+      <class name="com.morningstar.OnDemand.Flow.Test.OnDemandLoginTest">
+        <test-method status="PASS" signature="testSetUp()[pri:0, instance:com.morningstar.OnDemand.Flow.Test.OnDemandLoginTest@e6ea0c6]" name="testSetUp" is-config="true" duration-ms="3418" started-at="2017-05-05T15:22:57Z" finished-at="2017-05-05T15:23:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetUp -->
+        <test-method status="PASS" signature="verifyLive()[pri:1, instance:com.morningstar.OnDemand.Flow.Test.OnDemandLoginTest@e6ea0c6]" name="verifyLive" duration-ms="61821" started-at="2017-05-05T15:23:01Z" finished-at="2017-05-05T15:24:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLive -->
+        <test-method status="PASS" signature="verifyUAT()[pri:2, instance:com.morningstar.OnDemand.Flow.Test.OnDemandLoginTest@e6ea0c6]" name="verifyUAT" duration-ms="70870" started-at="2017-05-05T15:24:03Z" finished-at="2017-05-05T15:25:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUAT -->
+        <test-method status="PASS" signature="validateUATwithLIVE()[pri:3, instance:com.morningstar.OnDemand.Flow.Test.OnDemandLoginTest@e6ea0c6]" name="validateUATwithLIVE" duration-ms="121" started-at="2017-05-05T15:25:13Z" finished-at="2017-05-05T15:25:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUATwithLIVE -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.morningstar.OnDemand.Flow.Test.OnDemandLoginTest@e6ea0c6]" name="tearDown" is-config="true" duration-ms="790" started-at="2017-05-05T15:25:14Z" finished-at="2017-05-05T15:25:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.morningstar.OnDemand.Flow.Test.OnDemandLoginTest -->
+    </test> <!-- On Demand Test -->
+  </suite> <!-- Automated On Demand test run -->
+</testng-results>

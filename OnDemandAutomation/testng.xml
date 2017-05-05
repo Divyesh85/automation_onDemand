@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automated On Demand test run">
+	<test name="On Demand Test">
+		<classes>
+			<class
+				name="com.morningstar.OnDemand.Flow.Test.OnDemandLoginTest" />
+		</classes>
+	</test>
+<!-- 	<listeners>
+		<listener class-name="com.morningstar.quikr.listeners.TestCaseListener"></listener>
+		<listener class-name="com.morningstar.quikr.listeners.SuiteListener"></listener>
+	</listeners> -->
+</suite>

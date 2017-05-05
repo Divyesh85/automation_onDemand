@@ -1,0 +1,3 @@
+ShareClass ID: F0GBR04D1W has number of nodes =  <ShareClass><Id></Id><ISIN></ISIN><Name></Name><MSCategoryId></MSCategoryId><LegalStructure></LegalStructure><LastUpdated></LastUpdated><LastUpdated_NT _Type="1"></LastUpdated_NT><LastUpdated_NT _Type="2"></LastUpdated_NT><LastUpdated_NT _Type="4" _Id="1"></LastUpdated_NT><LastUpdated_NT _Type="4" _Id="2"></LastUpdated_NT><LastUpdated_NT _Type="4" _Id="3"></LastUpdated_NT><LastUpdated_NT _Type="8"></LastUpdated_NT><LastUpdated_NT _Type="16"></LastUpdated_NT><LastUpdated_NT _Type="32"></LastUpdated_NT><LastUpdated_NT _Type="128"></LastUpdated_NT><LastUpdated_NT _Type="256"></LastUpdated_NT><LastUpdated_NT _Type="512"></LastUpdated_NT><LastUpdated_NT _Type="1024"></LastUpdated_NT></ShareClass>
+
+ 

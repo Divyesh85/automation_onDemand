@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [On Demand Suit]">
+  <test name="OnDemandTest(failed)">
+    <classes>
+      <class name="com.morningstar.OnDemand.Flow.Test.OnDemandLoginTest">
+        <methods>
+          <include name="verifyLive"/>
+          <include name="tearDown"/>
+          <include name="testSetUp"/>
+          <include name="verifyUAT"/>
+        </methods>
+      </class> <!-- com.morningstar.OnDemand.Flow.Test.OnDemandLoginTest -->
+    </classes>
+  </test> <!-- OnDemandTest(failed) -->
+</suite> <!-- Failed suite [On Demand Suit] -->

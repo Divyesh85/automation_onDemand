@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="On Demand Suit">
+	<test name="OnDemandTest">
+		<classes>
+			<class name="com.morningstar.OnDemand.Flow.Test.OnDemandLoginTest" />
+		</classes>
+	</test>
+<!-- 	<listeners>
+		<listener class-name="com.morningstar.automation.base.core.listener.RetryListener"></listener>
+		<listener class-name="com.morningstar.iwt.base.listener.TestCaseListener"></listener>
+		<listener class-name="com.morningstar.iwt.base.listener.SuiteListener"></listener>
+	</listeners> -->
+</suite>

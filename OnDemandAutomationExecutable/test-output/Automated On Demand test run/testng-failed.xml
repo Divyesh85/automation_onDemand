@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automated On Demand test run]">
+  <test name="On Demand Test(failed)">
+    <classes>
+      <class name="com.morningstar.OnDemand.Flow.Test.OnDemandLoginTest">
+        <methods>
+          <include name="verifyLive"/>
+          <include name="validateUATwithLIVE"/>
+          <include name="testSetUp"/>
+          <include name="verifyUAT"/>
+        </methods>
+      </class> <!-- com.morningstar.OnDemand.Flow.Test.OnDemandLoginTest -->
+    </classes>
+  </test> <!-- On Demand Test(failed) -->
+</suite> <!-- Failed suite [Automated On Demand test run] -->
